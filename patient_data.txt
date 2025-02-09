@@ -1,0 +1,16 @@
+Sara|Smith|20|07012345678|B1 234|Nausea|Jone Smith
+Mike|Jones|37|07555551234|L2 2AB|Vomiting|Anand Karna
+Daivd|Smith|15|07123456789|C1 ABC|Dizziness|Anand Karna
+Hari|Poudel|42|9874561230|Butwal|Headache,Fever|Manjit Kaur
+Bashanta|Tiwar|20|9874561230|Bhw|LegPAin|Doctor Not Assigned
+Ramesh|Gurung|46|9874561230|Syangja|Nausea,Fever|Anand Karna
+Binit|Gupta|21|1254789630|Rupandehi|Legpain,Headache|Bashanta Tiwari
+Rakesh|Gyawali|36|7896541230|Pokhara|Vomiting,Dizziness|Doctor Not Assigned
+Gita|Gaire|24|9874561230|Lumbini|Dizziness,Vomiting|John Smith
+Harry|Nolan|28|9874561230|Uk|Fever,Headache|Manjit Kaur
+Bharat|Pathak|42|9874561230|Milanchowk|NeckPain,Headache|Doctor Not Assigned
+Rakesh|Thapa|26|9874561230|Nepal|Fever,Headache|Doctor Not Assigned
+Baburam|Tiwari|28|9874561230|Sydney|Fever,Headache|Doctor Not Assigned
+Gukesh|Sharma|32|9874561230|India|Headache,Fever|Doctor Not Assigned
+Christopher|Nolan|26|9874561230|USA|Headache,Fever|Doctor Not Assigned
+Aayusha|Pandey|18|9874561230|Anamnagar|Neckpain, Fever|Doctor Not Assigned
